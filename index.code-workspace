@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../index"
+		},
+		{
+			"path": "../../mario"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mario"
+	}
+}
